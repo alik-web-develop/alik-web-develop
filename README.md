@@ -24,3 +24,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=alik-web-develop&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik-web-develop&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+### 🌟 Featured Projects
+- [Project 1](https://orep.onrender.com/): This is my first project in react
