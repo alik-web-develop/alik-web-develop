@@ -27,3 +27,13 @@
 
 ### 🌟 Featured Projects
 - [Project 1](https://orep.onrender.com/): This is my first project in react
+
+### 📫 Connect with Me
+<p align="center">
+    <a href="https://t.me/zxcExit" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+    <a href="https://www.instagram.com/xyz_invoker/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+</p>
