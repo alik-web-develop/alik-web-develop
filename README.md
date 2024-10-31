@@ -27,11 +27,12 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-    <a href="https://orep.onrender.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Project%201-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Project 1">
+    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 20px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="20" style="vertical-align:middle;"/> 
+        Project 1: My first project in React
     </a>
-    <span>: This is my first project in react</span>
 </p>
+
 
 ### 📫 Connect with Me
 <p align="center">
