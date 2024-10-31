@@ -27,7 +27,7 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:90px 110px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
+    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:110px 130px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="70" style="vertical-align:middle;"/> 
         Project 1: My first project in React
     </a>
