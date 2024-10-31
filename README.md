@@ -31,7 +31,8 @@
     <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; font-size:24px; line-height:80px; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px; text-decoration:none; vertical-align:middle;">
         My first project in React
     </a>
-    <hr/>
+    <br/>
+    <br/>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="70" style="vertical-align:middle;"/>
     <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; font-size:24px; line-height:80px; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px; text-decoration:none; vertical-align:middle;">
         My first project in React
