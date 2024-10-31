@@ -27,14 +27,15 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-    <span style="display: inline-block; width: 80px; height: 80px; line-height: 80px; text-align: center; font-size: 24px; color: #61DAFB; background-color: #282C34; border-radius: 50%;">
-        React
-    </span>
-    <a href="https://orep.onrender.com/" target="_blank" style="display: inline-block; padding: 10px 30px; color: #DFDFDF; font-size: 24px; line-height: 80px; background-color: #282C34; border: 1px solid #5A5A5A; border-radius: 5px; text-decoration: none;">
-        Project 1: My first project in React
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="70" style="vertical-align:middle;"/>
+    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; font-size:24px; line-height:80px; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px; text-decoration:none; vertical-align:middle;">
+        My first project in React
+    </a>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="70" style="vertical-align:middle;"/>
+    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; font-size:24px; line-height:80px; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px; text-decoration:none; vertical-align:middle;">
+        My first project in React
     </a>
 </p>
-
 
 
 
