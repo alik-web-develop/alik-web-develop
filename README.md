@@ -3,6 +3,7 @@
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
+    <br/>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
@@ -17,18 +18,22 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Bootstrap">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
+    <br/>
 </p>
 
 
 <h2 align="center">Featurd Projects</h2>
+<br/>
 <p align="center">
     <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
         Project 1: My first project in React
     </a>
 </p>
+<br/>
 
 
 <h2 align="center">Connect with me</h2>
+<br/>
 <p align="center">
     <a href="https://t.me/zxcExit" target="_blank">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram">
@@ -37,6 +42,7 @@
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" alt="Instagram">
     </a>
 </p>
+<br/>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -52,3 +58,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=alik-web-develop&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik-web-develop&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<br/>
