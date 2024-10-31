@@ -29,7 +29,6 @@
         Project 1: My first project in React
     </a>
 </p>
-<br/>
 
 
 <h2 align="center">Connect with me</h2>
@@ -42,7 +41,6 @@
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" alt="Instagram">
     </a>
 </p>
-<br/>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
