@@ -26,12 +26,8 @@
 </p>
 
 ### 🌟 Featured Projects
-<p align="center">
-    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:70px 110px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
-        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="70" style="vertical-align:middle;"/> 
-        Project 1: My first project in React
-    </a>
-</p>
+- [![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://orep.onrender.com/) [**Project 1**](https://orep.onrender.com/): This is my first project in react
+
 
 
 ### 📫 Connect with Me
