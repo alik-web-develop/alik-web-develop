@@ -17,7 +17,6 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Bootstrap">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Tailwind/Tailwind2.svg" alt="Bootstrap">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
     <br/>
 </p>
