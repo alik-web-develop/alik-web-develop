@@ -27,17 +27,11 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-    <a href="https://orep.onrender.com/" target="_blank" style="display: inline-flex; align-items: center; padding: 12px 30px; background-color: #282C34; border: 2px solid #61DAFB; border-radius: 8px; text-decoration: none; color: #DFDFDF; font-size: 24px; font-weight: bold; transition: background-color 0.3s, transform 0.3s;">
-        <span style="display: inline-block; width: 40px; height: 40px; line-height: 40px; text-align: center; font-size: 24px; color: #61DAFB; background-color: #282C34; border-radius: 50%; margin-right: 10px;">
-            R
-        </span>
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="80" style="vertical-align:middle;"/> 
+    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
         Project 1: My first project in React
     </a>
 </p>
-
-
-
-
 
 
 ### 📫 Connect with Me
@@ -49,3 +43,12 @@
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" alt="Instagram">
     </a>
 </p>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/alik-web-develop/Orep" title="Orep"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<h4 align="center">
+  <a href="https://github.com/alik-web-develop?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
