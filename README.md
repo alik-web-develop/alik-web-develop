@@ -27,7 +27,7 @@
 
 ### 🌟 Featured Projects
 <p align="center">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="70" style="vertical-align:middle;"/>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="My first project in react" width="70" style="vertical-align:middle;"/>
 </p>
 
 
