@@ -1,4 +1,4 @@
-<img width='100%' src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=1b60d0&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alik;I+am+a+fullstack+developer." alt="Typing SVG" />
+<img width='100%' src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=7c1bd0&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alik;I+am+a+fullstack+developer." alt="Typing SVG" />
 
 <h2 align="center">Languages and Tools</h2>
 
@@ -22,6 +22,9 @@
 
 <h2 align="center">Featurd Projects</h2>
 <p align="center">
+    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
+        Project 1: My first project in React
+    </a>
     <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
         Project 1: My first project in React
     </a>
