@@ -1,6 +1,6 @@
 <img width='100%' src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=1b60d0&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alik;I+am+a+fullstack+developer." alt="Typing SVG" />
 
-### Languages and tools
+<h2 align="center">Languages and Tools</h2>
 
 <p align="center">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
@@ -20,7 +20,7 @@
 </p>
 
 
-### 🌟 Featured Projects
+<h2 align="center">Featurd Projects</h2>
 <p align="center">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" width="80" style="vertical-align:middle;"/> 
     <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
@@ -29,7 +29,7 @@
 </p>
 
 
-### 📫 Connect with Me
+<h2 align="center">Connect with me</h2>
 <p align="center">
     <a href="https://t.me/zxcExit" target="_blank">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram">
@@ -48,7 +48,7 @@
 <h4 align="center">
   <a href="https://github.com/alik-web-develop?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-### Github stats
+<h2 align="center">Githus stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alik-web-develop&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik-web-develop&layout=compact&theme=radical" alt="Top Languages" />
