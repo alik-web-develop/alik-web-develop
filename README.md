@@ -1,6 +1,6 @@
 <img width='100%' src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=1bafd0;&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alik;I+am+a+fullstack+developer." alt="Typing SVG" />
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="left">Languages and Tools</h2>
 
 <p align="center">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
@@ -20,18 +20,15 @@
 </p>
 
 
-<h2 align="center">Featurd Projects</h2>
+<h2 align="left">Featurd Projects</h2>
 <p align="center">
-    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
-        Project 1: My first project in React
-    </a>
     <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
         Project 1: My first project in React
     </a>
 </p>
 
 
-<h2 align="center">Connect with me</h2>
+<h2 align="left">Connect with me</h2>
 <p align="center">
     <a href="https://t.me/zxcExit" target="_blank">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram">
@@ -41,7 +38,7 @@
     </a>
 </p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="left">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/alik-web-develop/Orep" title="Orep"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alik-web-develop&repo=Orep&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -50,7 +47,7 @@
 <h4 align="center">
   <a href="https://github.com/alik-web-develop?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<h2 align="center">Githus stats</h2>
+<h2 align="left">Githus stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alik-web-develop&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik-web-develop&layout=compact&theme=radical" alt="Top Languages" />
