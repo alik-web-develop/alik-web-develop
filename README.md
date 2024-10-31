@@ -19,11 +19,6 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
 </p>
 
-### Github stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alik-web-develop&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik-web-develop&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ### 🌟 Featured Projects
 <p align="center">
@@ -53,3 +48,8 @@
 <h4 align="center">
   <a href="https://github.com/alik-web-develop?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+### Github stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alik-web-develop&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik-web-develop&layout=compact&theme=radical" alt="Top Languages" />
+</p>
