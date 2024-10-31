@@ -41,7 +41,3 @@ https://t.me/study_webapp_bot
 <a href="https://youtu.be/dQw4w9WgXcQ?si=t2uXWWr8o3EEVJZ2">
   <img src="https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif" alt="Alt Text" width="50%">
 </a>
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=NetGen&theme=midnight-purple)](https://github.com/azim0nt/NetGen)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=first-crm&theme=midnight-purple)](https://github.com/azim0nt/first-crm)
