@@ -26,14 +26,19 @@
 </p>
 
 ### 🌟 Featured Projects
-- [Project 1](https://orep.onrender.com/): This is my first project in react
+<p align="center">
+    <a href="https://orep.onrender.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Project%201-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Project 1">
+    </a>
+    <span>: This is my first project in react</span>
+</p>
 
 ### 📫 Connect with Me
 <p align="center">
     <a href="https://t.me/zxcExit" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram">
     </a>
     <a href="https://www.instagram.com/xyz_invoker/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+        <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg" alt="Instagram">
     </a>
 </p>
