@@ -19,7 +19,7 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
 </p>
 
-### Languages and tools
+### Github stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ваше_имя_на_гитхаб&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_на_гитхаб&layout=compact&theme=radical" alt="Top Languages" />
