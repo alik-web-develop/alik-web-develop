@@ -47,7 +47,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/alik-web-develop/Orep" title="Orep"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/alik-web-develop/Orep" title="Orep"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=alik-web-develop&repo=Orep&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <h4 align="center">
   <a href="https://github.com/alik-web-develop?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
