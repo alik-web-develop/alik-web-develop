@@ -22,22 +22,3 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg" alt="Photoshop">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
 </p>
-
-### My deployed projects
-
-https://first-crm.onrender.com  
-https://webnxt.onrender.com  
-https://confectionary-shop.onrender.com  
-https://audio-player-svxq.onrender.com  
-https://t.me/study_webapp_bot  
-
-
-### I am on other social networks
-
-<a href='https://t.me/azim0nt'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg'></a>
-<a href='mailto:kktotov457@gmail.com'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg'></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple)](https://github.com/azim0nt)
-<a href="https://youtu.be/dQw4w9WgXcQ?si=t2uXWWr8o3EEVJZ2">
-  <img src="https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif" alt="Alt Text" width="50%">
-</a>
