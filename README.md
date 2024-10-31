@@ -41,7 +41,7 @@
 <h4 align="center">
   <a href="https://github.com/alik-web-develop?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<h2 align="center"> Stats </h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -66,7 +66,7 @@
 <hr>
 
 
-<h2 align="center">Featurd Projects</h2>
+<h2 align="center">Featurd Projects ✨</h2>
 <br/>
 <p align="center">
     <a href="https://shopex-r3f2.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
