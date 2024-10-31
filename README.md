@@ -1,34 +1,47 @@
-name: Latest blog post workflow
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+<img width='100%' src="https://readme-typing-svg.demolab.com?font=&weight=900&pause=1000&color=9745F5&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Azim0nt;I+am+a+web+developer." alt="Typing SVG" />
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
-### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+### Languages and tools
 
-### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/alexeyshpavda)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
+<p align="center">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg" alt="Django">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" alt="PostgreSQL">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg" alt="JSON">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" alt="JWT">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg" alt="ViteJS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" alt="npm">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg" alt="Sass">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Bootstrap">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg" alt="Photoshop">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
+</p>
+
+### My deployed projects
+
+https://first-crm.onrender.com  
+https://webnxt.onrender.com  
+https://confectionary-shop.onrender.com  
+https://audio-player-svxq.onrender.com  
+https://t.me/study_webapp_bot  
+
+
+### I am on other social networks
+
+<a href='https://t.me/azim0nt'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg'></a>
+<a href='mailto:kktotov457@gmail.com'><img src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg'></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azim0nt&theme=midnight-purple)](https://github.com/azim0nt)
+<a href="https://youtu.be/dQw4w9WgXcQ?si=t2uXWWr8o3EEVJZ2">
+  <img src="https://media.tenor.com/QHZyEheKKUwAAAAM/%D0%BA%D0%B0.gif" alt="Alt Text" width="50%">
+</a>
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=NetGen&theme=midnight-purple)](https://github.com/azim0nt/NetGen)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azim0nt&repo=first-crm&theme=midnight-purple)](https://github.com/azim0nt/first-crm)
