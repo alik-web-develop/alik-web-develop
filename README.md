@@ -21,16 +21,6 @@
     <br/>
 </p>
 
-
-<h2 align="center">Featurd Projects</h2>
-<br/>
-<p align="center">
-    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
-        Project 1: My first project in React
-    </a>
-</p>
-
-
 <h2 align="center">Connect with me</h2>
 <br/>
 <p align="center">
@@ -74,3 +64,12 @@
 </p>
 
 <hr>
+
+
+<h2 align="center">Featurd Projects</h2>
+<br/>
+<p align="center">
+    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
+        Project 1: My first project in React
+    </a>
+</p>
