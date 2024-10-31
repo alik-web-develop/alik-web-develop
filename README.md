@@ -26,7 +26,14 @@
 </p>
 
 ### 🌟 Featured Projects
-- [![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)](https://orep.onrender.com/) [**Project 1**](https://orep.onrender.com/): This is my first project in react
+
+<p align="center">
+  <a href="https://orep.onrender.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align: middle;"/>
+    <span style="font-size: 1.2em; color: #61DAFB; font-weight: bold;">Project 1</span>
+  </a> 
+  : This is my first project in React.
+</p>
 
 
 
