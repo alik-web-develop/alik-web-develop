@@ -63,17 +63,3 @@
 </p>
 
 <hr>
-
-
-<h2 align="center">Featurd Projects ✨</h2>
-<br/>
-<p align="center">
-    <a href="https://shopex-r3f2.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
-        Project 1: My first project in React
-    </a>
-    <br>
-    <br>
-    <a href="https://orep.onrender.com/" target="_blank" style="display:inline-block; padding:10px 30px; color:#DFDFDF; background-color:#282C34; border:1px solid #5A5A5A; border-radius:5px;">
-        Project 2: My second project in React
-    </a>
-</p>
