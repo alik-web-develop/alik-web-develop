@@ -40,8 +40,8 @@ Here are some ideas to get you started:
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo1.svg" alt="Expo">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg" alt="React Native">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram Bot API"><br/>
-         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=2C3E50" alt="Vue.js" height="35">
-    <img src="https://img.shields.io/badge/Cursor-00A8E8?style=for-the-badge&logo=cursor&logoColor=white&labelColor=1E1E1E" alt="Cursor" height="35">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=2C3E50" alt="Vue.js" height="35">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=000000" alt="Cursor" height="35">
     <br/>
 </p>
 
