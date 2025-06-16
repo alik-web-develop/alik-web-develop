@@ -22,25 +22,25 @@ Here are some ideas to get you started:
 <p align="center">
     <br/>
     <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML"></a>
     <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="ViteJS">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS"></a>
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg" alt="Bootstrap">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg" alt="Sass">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" alt="Git">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg" alt="JSON">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg" alt="ViteJS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm3.svg" alt="npm">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo1.svg" alt="Expo">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg" alt="React Native">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram Bot API">
     <br/>
 </p>
 
