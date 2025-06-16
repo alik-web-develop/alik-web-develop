@@ -5,16 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/mal4ik-0">
+<a href="https://github.com/alik-web-develop">
 <img width='100%' src="https://readme-typing-svg.demolab.com/?font=&weight=900&pause=1000&color=1bafd0;&background=282C34&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Alik;I+am+a+Web+Developer." alt="Typing SVG" />
 </a>
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <a align="right" href="https://github.com/AlisherXujanov/fullstack16" title="Orep"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AlisherXujanov&repo=fullstack16&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <h4 align="center">
-  <a href="https://github.com/mal4ik-0?tab=repositories" title="Show Repositories"> Show More </a>
+  <a href="https://github.com/alik-web-develop?tab=repositories" title="Show Repositories"> Show More </a>
 </h4>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -55,21 +55,21 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=mal4ik-0&theme=react&border=61dafb&hide_border=true" alt="mal4ik-0" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=alik-web-develop&theme=react&border=61dafb&hide_border=true" alt="alik-web-develop" />
     </a>
     <a href="https://github.com/alik-web-develop/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mal4ik-0&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=alik-web-develop&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/alik-web-develop/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mal4ik-0&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alik-web-develop&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mal4ik-0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alik-web-develop&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <h2 align="center">Connect with me</h2>
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
     <a href="https://t.me/Nochnoy_Xuligan" target="_blank">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram">
     </a>
-    <a href="mailto:ilhomjonovasadbek123@gmai.com" target="_blank">
+    <a href="mailto:alik.ilhomjonov@gmail.com" target="_blank">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" alt="Gmail">
     </a>
 </p>
