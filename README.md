@@ -37,6 +37,9 @@ Here are some ideas to get you started:
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" alt="Visual Studio Code">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Expo/expo1.svg" alt="Expo">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative1.svg" alt="React Native">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VueJS/vuejs1.svg" alt="Vue.js">
     <br/>
 </p>
 
