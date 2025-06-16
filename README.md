@@ -21,25 +21,25 @@ Here are some ideas to get you started:
 <h2 align="center"> Languages and Tools </h2>
 <p align="center">
     <br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="ViteJS">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API">
-    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+    <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-6495ED?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/Bootstrap-BA55D3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/Sass-FF69B4?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+    <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Git-FFA07A?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/React-87CEFA?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/JSON-7CFC00?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+    <img src="https://img.shields.io/badge/Node.js-32CD32?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/Vite-9370DB?style=for-the-badge&logo=vite&logoColor=white" alt="ViteJS">
+    <img src="https://img.shields.io/badge/npm-FF4500?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+    <img src="https://img.shields.io/badge/Python-4169E1?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Figma-FF8C00?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-00BFFF?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+    <img src="https://img.shields.io/badge/Expo-9400D3?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+    <img src="https://img.shields.io/badge/React_Native-ADFF2F?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+    <img src="https://img.shields.io/badge/Vue.js-7FFF00?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+    <img src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API">
+    <img src="https://img.shields.io/badge/Cursor-8A2BE2?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
     <br/>
 </p>
 
