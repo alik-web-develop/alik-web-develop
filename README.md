@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 <h2 align="center">Connect with me</h2>
 <br/>
 <p align="center">
-    <a href="https://t.me/Nochnoy_Xuligan" target="_blank">
+    <a href="https://t.me/zxcExit" target="_blank">
         <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg" alt="Telegram">
     </a>
     <a href="mailto:alik.ilhomjonov@gmail.com" target="_blank">
